@@ -1,0 +1,12 @@
+{
+  "name": "mma-plugin-magicmirror-config",
+  "version": "0.1.0",
+  "description": "MagicMirror Admin Plugin - MagicMirror Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["magicmirror", "admin", "plugin", "config"],
+  "author": "",
+  "license": "ISC"
+}
